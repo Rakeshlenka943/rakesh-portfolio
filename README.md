@@ -6,15 +6,21 @@ This repo tracks my learning journey: Python basics, data projects, and ML exper
 ---
 
 ## 📂 Folder Structure
-- **python_basics/** → Simple scripts (variables, loops, conditionals)
+- **python_basics/** → Beginner Python scripts (variables, loops, conditionals)
 - **learning/** → Setup notes, daily logs, and reference docs
 - **notebooks/** → Jupyter notebooks for data analysis & ML demos
 - **projects/** → Full projects (e.g., Titanic ML, Spam Detector)
 
 ---
 
-## 🚀 Setup Instructions
-1. Clone this repo  
-2. Install requirements  
-   ```bash
-   pip install -r requirements.txt
+## 🚀 Quick Start
+```bash
+# Clone the repo
+git clone https://github.com/Rakeshlenka943/rakesh-portfolio.git
+cd rakesh-portfolio
+
+# Activate environment
+conda activate rakesh
+
+# Run a sample script
+python python_basics/hello_world.py
