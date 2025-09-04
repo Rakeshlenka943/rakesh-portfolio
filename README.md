@@ -15,7 +15,7 @@ This repo tracks my learning journey: Python basics, data projects, and ML exper
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 ## 📅 Daily Progress
-Check [learning/daily_log.md](learning/daily_log.md) for my day-to-day progress.
+Check my [Daily Journal](learning/daily_log.md) for day-to-day progress.
 
 ## 🚀 Quick Start
 ```bash
