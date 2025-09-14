@@ -12,10 +12,19 @@ This repo tracks my learning journey: Python basics, data projects, and ML exper
 - **projects/** → Full projects (e.g., Titanic ML, Spam Detector)
 
 ---
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+
+## 🏆 Goals & Roadmap
+- ✅ Learn Python fundamentals  
+- ✅ Understand Git & GitHub basics  
+- 🔄 Complete mini ML demos (Iris, Titanic)  
+- 🔜 Deploy projects with Streamlit/Dash  
+
+---
+
 ## 📅 Daily Progress
-Check my [Daily Journal](learning/daily_log.md) for day-to-day progress.
+Track my daily progress in [learning/daily_log.md](learning/daily_log.md).  
+
+---
 
 ## 🚀 Quick Start
 ```bash
@@ -23,8 +32,12 @@ Check my [Daily Journal](learning/daily_log.md) for day-to-day progress.
 git clone https://github.com/Rakeshlenka943/rakesh-portfolio.git
 cd rakesh-portfolio
 
-# Activate environment
+# Create & activate environment
+conda create -n rakesh python=3.10 -y
 conda activate rakesh
+
+# Install dependencies
+pip install -r requirements.txt
 
 # Run a sample script
 python python_basics/hello_world.py
