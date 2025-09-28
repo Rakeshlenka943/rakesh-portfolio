@@ -1,4 +1,4 @@
-# rakesh-portfolio — Clean Starter (Sept 2025)
+# Rakesh-Portfolio — Clean Starter (Sept 2025)
 **B.Tech Mechanical Engineering (AI & Robotics)** — OUTR (2025–2029)
 
 This repository is a clean, honest starter for my learning portfolio. Historical/template content has been archived to a backup branch so the public view reflects work I actually wrote or will write myself.
