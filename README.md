@@ -1,43 +1,21 @@
-# Rakesh Lenka — Student Portfolio  
+# rakesh-portfolio (clean starter)
+**B.Tech Mechanical Engineering (AI & Robotics) � OUTR (2025�2029)**
 
-1st-year B.Tech AI & Robotics @ OUTR | Learning Python, AI, and ML step-by-step.  
-This repo tracks my learning journey: Python basics, data projects, and ML experiments.
+This repository is reset to a clean, honest starter state (Sept 2025) following my personal roadmap (Roadmap v2.1). Old content is archived on the rchive-raw branch if I need to recover it.
 
----
+## What is here now (Sept 2025)
+- python_basics/hello_world.py � a small file I wrote myself to show real code.
+- This README (you are here).
+- I will add real notebooks and projects as I build them following Roadmap v2.1.
 
-## 📂 Folder Structure
-- **python_basics/** → Beginner Python scripts (variables, loops, conditionals)
-- **learning/** → Setup notes, daily logs, and reference docs
-- **notebooks/** → Jupyter notebooks for data analysis & ML demos
-- **projects/** → Full projects (e.g., Titanic ML, Spam Detector)
+## Short-term (Sept)
+- Finish Math Foundations (Linear Algebra, Probability, basic gradients).
+- Build and deploy 1 small ML mini-project (Streamlit + Docker).
+- Keep DSA habit: 1 Hard + 2 Medium/week.
 
----
-
-## 🏆 Goals & Roadmap
-- ✅ Learn Python fundamentals  
-- ✅ Understand Git & GitHub basics  
-- 🔄 Complete mini ML demos (Iris, Titanic)  
-- 🔜 Deploy projects with Streamlit/Dash  
+If you want to view the old (archived) files, switch to the rchive-raw branch on this repo.
 
 ---
 
-## 📅 Daily Progress
-Track my daily progress in [learning/daily_log.md](learning/daily_log.md).  
-
----
-
-## 🚀 Quick Start
-```bash
-# Clone the repo
-git clone https://github.com/Rakeshlenka943/rakesh-portfolio.git
-cd rakesh-portfolio
-
-# Create & activate environment
-conda create -n rakesh python=3.10 -y
-conda activate rakesh
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run a sample script
-python python_basics/hello_world.py
+Profile: https://github.com/Rakeshlenka943
+LinkedIn: (coming soon)
