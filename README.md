@@ -1,10 +1,10 @@
 # rakesh-portfolio (clean starter)
-**B.Tech Mechanical Engineering (AI & Robotics) — OUTR (2025–2029)**
+**B.Tech Mechanical Engineering (AI & Robotics) ï¿½ OUTR (2025ï¿½2029)**
 
 This repository is reset to a clean, honest starter state (Sept 2025) following my personal roadmap (Roadmap v2.1). Old content is archived on the rchive-raw branch if I need to recover it.
 
 ## What is here now (Sept 2025)
-- python_basics/hello_world.py — a small file I wrote myself to show real code.
+- python_basics/hello_world.py ï¿½ a small file I wrote myself to show real code.
 - This README (you are here).
 - I will add real notebooks and projects as I build them following Roadmap v2.1.
 
@@ -18,4 +18,4 @@ If you want to view the old (archived) files, switch to the rchive-raw branch o
 ---
 
 Profile: https://github.com/Rakeshlenka943
-LinkedIn: (coming soon)
+LinkedIn: https://www.linkedin.com/in/rakesh-lenka-0a6452387/
