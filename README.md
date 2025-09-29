@@ -1,5 +1,5 @@
-# rakesh-portfolio (clean starter)
-**B.Tech Mechanical Engineering (AI & Robotics) � OUTR (2025�2029)**
+# Rakesh-Portfolio — Clean Starter (Sept 2025)
+**B.Tech Mechanical Engineering (AI & Robotics)** — OUTR (2025–2029)
 
 This repository is reset to a clean, honest starter state (Sept 2025) following my personal roadmap (Roadmap v2.1). Old content is archived on the rchive-raw branch if I need to recover it.
 
